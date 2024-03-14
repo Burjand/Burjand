@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! My name is Andrés and I am a Data Analyst and Telecommunications Engineer 👋
 
 <!--
 **Burjand/Burjand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
