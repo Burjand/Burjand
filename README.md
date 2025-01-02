@@ -1,4 +1,4 @@
-### Hello! My name is Andrés and I am a Telecommunications Engineer and Computer Science student👋
+### Hello! My name is Andrés and I am a Telecommunications Engineer and CS Master's student👋
 
 <!--
 **Burjand/Burjand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
